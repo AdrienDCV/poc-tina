@@ -13,6 +13,11 @@
     "@astrojs/rss": "^4.0.14",
     "@astrojs/sitemap": "^3.6.1",
     "astro": "^5.16.9",
-    "sharp": "^0.34.3"
+    "sharp": "^0.34.3",
+    "tinacms": "^3.3.0"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^2.1.0",
+    "@types/node": "^25.0.7"
   }
 }
